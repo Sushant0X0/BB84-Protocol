@@ -6,7 +6,7 @@ import numpy as np
 import matplotlib.pyplot as plt
 import random
 
-QiskitRuntimeService.save_account(channel="ibm_quantum", token="0281cfc4a48df38cefb1dca8b116d692f8cf474b4899a4ec84c1c20007f165a56550410cbf0015b47cb06e6367d7bfa248828ac8fca10421fdcffc381ad82e39", overwrite=True)
+QiskitRuntimeService.save_account(channel="ibm_quantum", token="ENTER_YOUR_IBM_TOKEN_API", overwrite=True)
 service = QiskitRuntimeService()
 print(service.backends(simulator=False, operational=True))
 
