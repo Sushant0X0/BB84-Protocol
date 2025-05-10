@@ -1,0 +1,57 @@
+BB84 Protocol Result
+
+[<IBMBackend('ibm_brisbane')>, <IBMBackend('ibm_sherbrooke')>]
+Alice bits: [1, 0, 0, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 0]
+Bob results: [0, 0, 0, 1, 0, 0, 1, 1, 0, 0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1]
+Sifted Alice: [0, 0, 0, 0, 0, 1, 0, 1, 0]
+Sifted Bob: [0, 0, 0, 0, 0, 1, 0, 1, 1]
+Errors: 1 Sifted length: 9
+Alice bits: [1, 1, 1, 0, 1, 0, 1, 0, 1, 1, 1, 0, 0, 1, 1, 1, 1, 0, 1, 1]
+Bob results: [1, 0, 1, 0, 0, 0, 0, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 1, 1, 1]
+Sifted Alice: [1, 1, 0, 1, 0, 1, 0, 1, 1, 0, 1, 1]
+Sifted Bob: [0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 1, 1]
+Errors: 5 Sifted length: 12
+Alice bits: [1, 1, 0, 1, 0, 1, 1, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0, 0, 0, 1]
+Bob results: [0, 1, 0, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 0, 0, 0, 0, 1]
+Sifted Alice: [1, 0, 0, 1, 1, 0]
+Sifted Bob: [1, 0, 0, 1, 1, 0]
+Errors: 0 Sifted length: 6
+Alice bits: [1, 0, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 1, 0, 0, 0, 1, 0]
+Bob results: [1, 0, 0, 1, 1, 1, 0, 1, 1, 1, 1, 0, 0, 0, 0, 1, 0, 1, 1, 0]
+Sifted Alice: [1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1]
+Sifted Bob: [1, 0, 0, 1, 1, 0, 1, 0, 0, 0, 1, 1]
+Errors: 1 Sifted length: 12
+Alice bits: [1, 0, 0, 0, 1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Bob results: [0, 0, 0, 0, 0, 0, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 0, 0, 0, 0]
+Sifted Alice: [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Sifted Bob: [0, 0, 1, 1, 0, 0, 0, 1, 0, 0, 0]
+Errors: 0 Sifted length: 11
+Alice bits: [1, 0, 1, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 1, 0, 0, 1, 0, 0, 0]
+Bob results: [1, 0, 1, 1, 1, 1, 1, 0, 1, 0, 0, 1, 1, 1, 1, 0, 1, 0, 1, 0]
+Sifted Alice: [1, 0, 1, 1, 0, 0, 1, 1, 0, 0, 0]
+Sifted Bob: [1, 0, 1, 1, 1, 0, 0, 1, 0, 1, 0]
+Errors: 3 Sifted length: 11
+Alice bits: [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 1, 1, 0, 0, 0, 0, 1, 0]
+Bob results: [0, 0, 0, 1, 0, 1, 0, 0, 1, 0, 1, 0, 0, 1, 1, 0, 1, 1, 1, 0]
+Sifted Alice: [0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+Sifted Bob: [0, 0, 0, 1, 0, 0, 1, 1, 0, 1, 0]
+Errors: 0 Sifted length: 11
+Alice bits: [1, 1, 0, 1, 0, 0, 1, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1]
+Bob results: [1, 0, 0, 0, 0, 0, 1, 0, 0, 1, 0, 0, 1, 1, 1, 0, 0, 0, 1, 1]
+Sifted Alice: [1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1]
+Sifted Bob: [1, 0, 0, 1, 0, 1, 1, 0, 0, 0, 1]
+Errors: 3 Sifted length: 11
+Alice bits: [1, 0, 0, 0, 0, 1, 1, 0, 0, 1, 0, 1, 1, 1, 0, 1, 0, 0, 1, 1]
+Bob results: [1, 1, 0, 0, 0, 1, 1, 0, 0, 0, 1, 1, 1, 1, 0, 0, 1, 1, 1, 1]
+Sifted Alice: [1, 0, 1, 1, 0, 0, 1, 1]
+Sifted Bob: [1, 0, 1, 1, 0, 0, 1, 1]
+Errors: 0 Sifted length: 8
+Alice bits: [0, 1, 1, 0, 1, 1, 0, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 0, 1, 1]
+Bob results: [1, 0, 0, 0, 1, 1, 1, 1, 1, 0, 1, 1, 1, 1, 1, 0, 0, 0, 0, 1]
+Sifted Alice: [0, 1, 1, 0, 1, 1, 0]
+Sifted Bob: [0, 1, 1, 1, 1, 1, 0]
+Errors: 1 Sifted length: 7
+avg qber without eve  0.02222222222222222
+avg qber with eve  0.23766233766233763
+
+
